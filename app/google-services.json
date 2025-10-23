@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "17352661560",
+    "firebase_url": "https://mychat145-685e3-default-rtdb.firebaseio.com",
+    "project_id": "mychat145-685e3",
+    "storage_bucket": "mychat145-685e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17352661560:android:1f7900af3904a5df7224cd",
+        "android_client_info": {
+          "package_name": "com.example.localchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNTd3-uOd7ieYnpkPqT57r2koEopWtPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17352661560:android:c3f73e16a9f7895d7224cd",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNTd3-uOd7ieYnpkPqT57r2koEopWtPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
